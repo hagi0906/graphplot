@@ -16,3 +16,4 @@ https://note.mu/pomta_trd/n/n15b1d992f5ca \
 リアルタイムでのグラフのプロットを行うコードを参考にした。
 
 4. 実行の様子
+![demo](https://github.com/hagi0906/graphplot/blob/master/graphplot.gif)
